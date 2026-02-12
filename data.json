@@ -8,7 +8,7 @@
   },
   "about": {
     "title": "Tu bienestar es mi prioridad",
-    "bio1": "Soy psicóloga clínica colegiada con más de X años de experiencia ayudando a personas a superar sus dificultades emocionales y alcanzar una vida más plena y satisfactoria.",
+    "bio1": "Soy psicóloga clínica colegiada con más de [X] años de experiencia ayudando a personas a superar sus dificultades emocionales y alcanzar una vida más plena y satisfactoria.",
     "bio2": "Mi enfoque terapéutico es humanista e integrativo, adaptándome a las necesidades únicas de cada persona. Trabajo con adolescentes, adultos y parejas en temas como ansiedad, depresión, autoestima, relaciones y crecimiento personal.",
     "education": "Licenciada en Psicología por [Universidad]",
     "colegiacion": "XXXXX",
@@ -40,27 +40,11 @@
       "description": "Sesiones por videollamada con la misma calidad que la terapia presencial, desde cualquier lugar."
     }
   ],
-  "blog": [
-    {
-      "id": 1706000000000,
-      "title": "Cómo gestionar la ansiedad en el día a día",
-      "image": "",
-      "content": "La ansiedad es una respuesta natural del cuerpo ante situaciones de estrés, pero cuando se vuelve constante puede afectar significativamente nuestra calidad de vida. Aquí comparto algunas estrategias efectivas que puedes implementar:\n\n1. Técnicas de respiración profunda: Dedica 5 minutos al día para practicar respiración consciente.\n\n2. Mindfulness: La atención plena ayuda a centrarnos en el presente y reducir la preocupación por el futuro.\n\n3. Actividad física regular: El ejercicio libera endorfinas que mejoran nuestro estado de ánimo.\n\n4. Establece rutinas: La estructura y predictibilidad reducen la incertidumbre.\n\n5. Limita la cafeína: El exceso de café puede aumentar los síntomas de ansiedad.\n\nRecuerda que si la ansiedad interfiere con tu vida diaria, es importante buscar ayuda profesional.",
-      "date": "24/1/2024"
-    }
-  ],
-  "resources": [
-    {
-      "id": 1706100000000,
-      "title": "Guía de Mindfulness para Principiantes",
-      "description": "Ejercicios prácticos de atención plena para reducir el estrés",
-      "file": "https://ejemplo.com/mindfulness.pdf",
-      "type": "pdf"
-    }
-  ],
+  "blog": [],
+  "resources": [],
   "config": {
-    "name": "Dra. [Tu Nombre]",
-    "email": "contacto@ejemplo.com",
+    "name": "Licenciada Maria Belen Prieto",
+    "email": "licmbprieto@gmail.com",
     "whatsapp": "34XXXXXXXXX",
     "phone": "+34 XXX XXX XXX",
     "docfavUrl": "",
@@ -69,7 +53,7 @@
     "linkedin": "",
     "facebook": "",
     "youtube": "",
-    "metaDescription": "Psicóloga clínica en Madrid. Terapia individual, pareja y online. Enfoque humanista e integrativo para tu bienestar emocional.",
+    "metaDescription": "",
     "analytics": ""
   }
 }
